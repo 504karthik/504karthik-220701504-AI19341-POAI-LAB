@@ -1,0 +1,7 @@
+echo "# 504karthik-220701504-AI19341-POAI-LAB" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/504karthik/504karthik-220701504-AI19341-POAI-LAB.git
+git push -u origin main
